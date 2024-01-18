@@ -1,0 +1,30 @@
+
+
+ Your goal state was: 
+6   25   21   19    4    
+2   13   24    7    3    
+5   10   11   18   15    
+1   23   17   20   14    
+8   12    9   22   16    
+
+
+ Your initial state was: 
+1    2    3    4    5    
+6    7    8    9   10    
+11   12   13   14   15    
+16   17   18   19   20    
+21   22   23   24   25    
+
+
+ Your ending up state was: 
+1    2    3    4    5    
+6    7   13    8    9    
+11   12   18   14   10    
+16   17   25   19   15    
+21   22   23   24   20    
+
+
+ Your moves are: 
+u  u  u  l  l  d  d  
+Your have done 7 moves
+You have exited without reaching the goal state.
